@@ -1,10 +1,12 @@
 
-Hi 👋, I'm Ibrahim Ismail
-A passionate software engineer
-👨‍💻 All of my projects are available at https://github.com/Ibrahim-fci
+My Name is Abdelrhman Gamal Sayed , Welcome To My Github Profile 👋
+<hr>
+🏆 I'm an ITI graduate.
+👨‍💻 I'm constantly learning and exploring new technologies to improve my skills.
+💬 Ask me about my experience with HTML, CSS and JavaScript or anything related to web development.
+👻 Fun Fact: my perfect day would start and end with a tasty meal.
+Connect with Me :
+Linkedin Badge Gmail
 
-💬 Ask me about nodejs, expressjs, react, mysql , postgresql,mongo db
-
-📫 How to reach me ibrahimismail00000@gmail.com
-
-📄 Know about my experiences https://drive.google.com/file/d/1eiNNkZhfrOARFDYSjmXPtP0gyZRM8hxD/view?usp=sharing
+Languages and Tools 🛠 :
+HTML5 CSS3 Sass  Bootstrap JavaScript  JQuery  React.js TypeScript Angular  Git  GitHub  Visual Studio Code
